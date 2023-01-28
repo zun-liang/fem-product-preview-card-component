@@ -32,8 +32,8 @@ Mobile Screenshot: [Mobile Screenshot](./Screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-EgXDojXf7h)
-- Live Site URL: [Add live site URL here](https://zun-liang.github.io/product-preview-card-component-main/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-EgXDojXf7h)
+- Live Site URL: [Github Pages](https://zun-liang.github.io/product-preview-card-component-main/)
 
 ## My process
 
