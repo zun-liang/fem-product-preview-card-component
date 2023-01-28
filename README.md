@@ -32,8 +32,8 @@ Mobile Screenshot: [Mobile Screenshot](./Screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-EgXDojXf7h)
+- Live Site URL: [Add live site URL here](https://zun-liang.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -48,8 +48,8 @@ Mobile Screenshot: [Mobile Screenshot](./Screenshot_mobile.png)
 
 ### What I learned
 
-- <picture>
-- <source>
+- picture tag
+- source tag
 - visual hidden elements
 
 ### Continued development
